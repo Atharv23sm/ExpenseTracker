@@ -1,8 +1,6 @@
 # ExpenseTracker
 Expense Tracker project, created using html, css, javascript, php, mysql.
 
-partner : Anuraj Singh ( anurajsingh416 )
-
 ![Screenshot (1)](https://github.com/Atharv23sm/ExpenseTracker/assets/122306441/dcdf3d9e-866a-4f7d-9fb1-15985e1a62f2)
 ![Screenshot (2)](https://github.com/Atharv23sm/ExpenseTracker/assets/122306441/a61faaa8-d651-45d7-9dae-45ccb3ed6bca)
 ![Screenshot (3)](https://github.com/Atharv23sm/ExpenseTracker/assets/122306441/b4495d1a-ecb4-46ae-a4ac-b63082364fac)
