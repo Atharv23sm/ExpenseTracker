@@ -7,6 +7,7 @@ Expense Tracker project, created using html, css, javascript, php, mysql.
 ![Screenshot (4)](https://github.com/Atharv23sm/ExpenseTracker/assets/122306441/80c2f682-6723-492f-9435-f0c83566d96d)
 ![Screenshot (5)](https://github.com/Atharv23sm/ExpenseTracker/assets/122306441/bc35c5a4-b5fa-48ac-9688-b0ac10068f95)
 ![Screenshot (6)](https://github.com/Atharv23sm/ExpenseTracker/assets/122306441/b58ccd51-bb30-4686-b05a-5a440440b00b)
+![Screenshot (12)](https://github.com/Atharv23sm/ExpenseTracker/assets/122306441/584e18be-f9f3-4917-9684-9d917140ce28)
 ![Screenshot (7)](https://github.com/Atharv23sm/ExpenseTracker/assets/122306441/a8fb7b2e-27c1-4f6c-94dd-05f871bb9f2f)
 ![Screenshot (8)](https://github.com/Atharv23sm/ExpenseTracker/assets/122306441/e9483842-df4d-4eee-b56f-6788d59f89e2)
 
